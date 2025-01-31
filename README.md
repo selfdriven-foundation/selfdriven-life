@@ -3,7 +3,7 @@ Tools to help self-drive your life.
 
 ### Status
 - Research & Development
-- Focus on crypto tools to help protect assets - including incase on emergency.
+- Focus on guide to help people that have inherited crypto assets, but have no crypto experience.
 
 ### Contact Us
 - [Connect @ bsky.app](https://bsky.app/profile/markbyers.selfdriven.social)
