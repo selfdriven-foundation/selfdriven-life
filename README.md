@@ -9,5 +9,5 @@ Tools to help self-drive your life.
 - [Connect @ bsky.app](https://bsky.app/profile/markbyers.selfdriven.social)
 - [selfdriven.foundation/connect](https://selfdriven.foundation/connect)
 
-### Resources
+### Guides
 - [Getting Started Guide - Inherited Digital/Crypto Assets](/guides/getting-started-inherited-crypto-assets.md)
