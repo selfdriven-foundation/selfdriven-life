@@ -1,5 +1,5 @@
 ## Important
-- NEVER Share the Seed phrase with anyone that you do not deeply trust!
+- !!! NEVER share the seed phrase with anyone that you do not deeply trust!
 
 ## Steps
 - Fact Find
