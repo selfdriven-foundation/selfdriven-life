@@ -10,4 +10,4 @@ Tools to help self-drive your life.
 - [selfdriven.foundation/connect](https://selfdriven.foundation/connect)
 
 ### Resources
-- Getting Started Guide - Inherited Digital/Crypto Assets 
+- [Getting Started Guide - Inherited Digital/Crypto Assets](/guides/getting-started-inherited-crypto-assets.md)
